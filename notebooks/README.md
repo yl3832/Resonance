@@ -29,8 +29,9 @@ ___
 :-------------------------:|:-------------------------:
  <img src = './notebook_figs/test_1.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/test_1_seg.png' width="320" height="320" align="center">
  <img src = './notebook_figs/test_2.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/test_2_seg.png' width="320" height="320" align="center">
+ 
 
-  Color Image            |  Predictions
+  Color Image            |  Predictions of All Tags
 :-------------------------:|:-------------------------:
  <img src = './notebook_figs/test_4.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/predictions_of_test_4.png' width="320" height="320" align="center">
  <img src = './notebook_figs/test_5.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/predictions_of_test_5.png' width="320" height="320" align="center">
