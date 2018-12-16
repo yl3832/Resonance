@@ -1,6 +1,8 @@
 # Resonance Homework 
 
-## Visualizations:  
+## Visualizations: 
+
+Please click on the plots to see a bigger figure.  
 
 ### Word Clouds 
 
