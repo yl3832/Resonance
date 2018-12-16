@@ -9,6 +9,6 @@
 
 ___
 
-Solarized dark             |  Solarized Ocean          | SSSS
+Word Cloud of Color 1            |  Word Cloud of Color 2         | Word Cloud of Body 3
 :-------------------------:|:-------------------------:|:-------------------------
-![image](./wc_alice_color.png)  |  ![image](./wc_alice_color.png) | ![image](./wc_alice_color.png)
+![image](./wc_alice_color.png)  |  ![image](./wc_rea_body.png) | ![image](./wc_dp_body.png)
