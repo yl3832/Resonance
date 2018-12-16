@@ -24,7 +24,10 @@ ___
 
 ## Examples of labelling results:  
   + Color Image: 
-
+  Color Image            |  Segmentation Field Prediction  
+:-------------------------:|:-------------------------:
+ <img src = './notebook_figs/test_1.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/test_1_seg.png' width="320" height="320" align="center">
+ <img src = './notebook_figs/test_2_seg.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/test_2_seg.png' width="320" height="320" align="center">
 
   Color Image            |  Predictions
 :-------------------------:|:-------------------------:
@@ -34,5 +37,5 @@ ___
   
   + Body Image with predictions:  
 
-  <img src = './figs/test4.png'  width="300" height="300">
-  <img src = './figs/predictions_of_test4.png'>
+  <img src = './notebook_figs/test4.png'  width="300" height="300">
+  <img src = './notebook_figs/predictions_of_test4.png'>
