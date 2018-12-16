@@ -28,7 +28,7 @@ ___
   + Labeled tables are saved [here](./results)
   + Code and detailed explainations are saved [here](./notebooks)
   + Visualizations of the data are saved [here](./visualizations)
-  + AirTable Version Results: [here](https://airtable.com/invite/l?inviteId=invvHxAAd2x4pHVb2&inviteToken=2a034a45b244fb63c1eadaf597fe403d94ff58ac3bcd979f7fd64e497ee4e1a2)
+  + AirTable version results are saved [here](https://airtable.com/invite/l?inviteId=invvHxAAd2x4pHVb2&inviteToken=2a034a45b244fb63c1eadaf597fe403d94ff58ac3bcd979f7fd64e497ee4e1a2)
 
 ___
 
