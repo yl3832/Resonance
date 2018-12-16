@@ -23,13 +23,14 @@ ___
 
 
 ## Examples of labelling results:  
-  + Prediction of Color Image: 
+  + Color Image: 
 
-  <img src = https://github.com/yl3832/Resonance/tree/master/figs/test_4.png  width="300" height="300" align="center">   <img src = 'https://github.com/yl3832/Resonance/tree/master/figs/predictions_of_test_4.png' width="320" height="320" align="center">
- 	 
+  Color Image            |  Predictions
+:-------------------------:|:-------------------------:
+ <img src = './figs/test_4.png'  width="300" height="300" align="center">   | <img src = './figs/predictions_of_test_4.png' width="320" height="320" align="center">
+   
   
-  + Prediction of Body Image: 
+  + Body Image with predictions:  
 
-  <img src = 'https://github.com/yl3832/Resonance/tree/master/figs/test4.png'  width="300" height="300">
-  <img src = 'https://github.com/yl3832/Resonance/tree/master/figs/predictions_of_test4.png'>
-
+  <img src = './figs/test4.png'  width="300" height="300">
+  <img src = './figs/predictions_of_test4.png'>
