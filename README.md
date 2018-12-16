@@ -37,7 +37,7 @@ ___
   <img src = './figs/predictions_of_test4.png'>
 
 
-
+## Structure of this repo: 
 ```
 proj/
 ├── notebook/ 
