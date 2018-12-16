@@ -26,6 +26,7 @@ ___
     For example: a cloth with Resonance_code: CM-3003 SGT19 WHITUI means:
 		+ ZIP HOODIE (CM-3003) with hite w/Thin Navy Vertical Stripe (WHITUI)
   + Labeled tables are saved [here](./results)
+  + Code and detailed explainations are saved [here](./notebooks)
   + Visualizations of the data are saved [here](./visualizations)
 
 ___
