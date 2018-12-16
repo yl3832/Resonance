@@ -1,6 +1,4 @@
-# Resonance
-
-Resonance Homework 
+# Resonance Homework 
 
 ## Project Title : Resonance - Labelling Image Color Body and Style  
   + By : Yilin Lyu, Columbia University (yl3832@columbia.edu)
