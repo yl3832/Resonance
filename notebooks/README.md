@@ -25,11 +25,11 @@ ___
 ## Examples of labelling results:  
   + Prediction of Color Image: 
 
-  <img src = './figs/test_4.png'  width="300" height="300" align="center">   <img src = './figs/predictions_of_test_4.png' width="320" height="320" align="center">
+  <img src = 'https://github.com/yl3832/Resonance/tree/master/figs/test_4.png'  width="300" height="300" align="center">   <img src = 'https://github.com/yl3832/Resonance/tree/master/figs/predictions_of_test_4.png' width="320" height="320" align="center">
  	 
   
   + Prediction of Body Image: 
 
-  <img src = './figs/test4.png'  width="300" height="300">
-  <img src = './figs/predictions_of_test4.png'>
+  <img src = 'https://github.com/yl3832/Resonance/tree/master/figs/test4.png'  width="300" height="300">
+  <img src = 'https://github.com/yl3832/Resonance/tree/master/figs/predictions_of_test4.png'>
 
