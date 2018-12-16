@@ -14,3 +14,9 @@ Word Cloud of Color 1            |  Word Cloud of Color 2         | Word Cloud o
 Barplot of Body            |  Barplot of Color         | Barplot of Genre
 :-------------------------:|:-------------------------:|:-------------------------
 ![image](./barplot_body.png)  |  ![image](./barplot_color.png) | ![image](./barplot_Genre.png)
+
+### Pie Charts 
+
+Pie Chart of Brightness             |  Pie Chart of Contrast
+:-------------------------:|:-------------------------:
+![image](./Pie_chart_brightness.png)  |  ![image](./Pie_chart_contrast.png)
