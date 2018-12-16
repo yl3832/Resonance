@@ -24,7 +24,7 @@ ___
 ___
 
 
-+ **Examples of labelling results**:  
+## Examples of labelling results:  
   + Prediction of Color Image: 
 
   <img src = './figs/test_4.png'  width="300" height="300">   <img src = './figs/predictions_of_test_4.png' width="300" height="300">
