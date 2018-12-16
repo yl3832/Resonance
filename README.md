@@ -33,7 +33,7 @@ ___
 
   Color Image            |  Predictions
 :-------------------------:|:-------------------------:
-![image](./test_4.png)  |  ![image](./predictions_of_test_4.png)
+![image](./figs/test_4.png)  |  ![image](./figs/predictions_of_test_4.png)
 
   <img src = './figs/test_4.png'  width="300" height="300" align="center">   <img src = './figs/predictions_of_test_4.png' width="320" height="320" align="center">
  	 
@@ -42,7 +42,7 @@ ___
 
     Body Image            |  Predictions
 :-------------------------:|:-------------------------:
-![image](./test4.png)  |  ![image](./predictions_of_test4.png)
+![image](./figs/test4.png)  |  ![image](./figs/predictions_of_test4.png)
 
   <img src = './figs/test4.png'  width="300" height="300">
   <img src = './figs/predictions_of_test4.png'>
