@@ -3,11 +3,12 @@
 Resonance Homework 
 
 + **Project Title**: Resonance - Labelling Image Color Body and Style   
-  + Color Image: 
+  + Color Image:                                               Predictions: 
+
   <img src = './figs/test_4.png'  width="300" height="300"> <img src = './figs/predictions_of_test_4.png' width="300" height="300">
  	 
- 	 + Predictions: 
- 	 <img src = './figs/predictions_of_test_4.png'>
+
+
   + Body Image: ![image](./figs/test4.png) 
   	 + Predictions: ![image](./figs/predictions_of_test4.png) 
 + **By**:  
