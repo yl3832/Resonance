@@ -31,7 +31,7 @@ ___
 ## Examples of labelling results:  
   + Prediction of Color Image: 
 
-  <img src = './figs/test_4.png'  width="300" height="300" align="center">   <img src = './figs/predictions_of_test_4.png' width="300" height="300" align="center">
+  <img src = './figs/test_4.png'  width="300" height="300" align="center">   <img src = './figs/predictions_of_test_4.png' width="320" height="320" align="center">
  	 
   
   + Prediction of Body Image: 
