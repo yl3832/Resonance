@@ -33,6 +33,7 @@ ___
 
   <img src = './figs/test_4.png'  width="300" height="300" align="left">   <img src = './figs/predictions_of_test_4.png' width="300" height="300" align="right">
  	 
+  
   + Prediction of Body Image: 
 
   <img src = './figs/test4.png'  width="300" height="300">
