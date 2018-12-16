@@ -7,6 +7,7 @@
 </p>
 
 ___
+
 ## Summary:  
   + There are three tables to be labeled including **_Color, Body_** and **_Style_**. 
   + For the images in Color table, to be labeled: **_Brightness, Contrast, Color, Field, Genre_**
