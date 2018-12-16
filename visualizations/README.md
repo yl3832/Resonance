@@ -9,3 +9,6 @@
 
 ___
 
+Solarized dark             |  Solarized Ocean          | SSSS
+:-------------------------:|:-------------------------:|:-------------------------
+![image](.wc_alice_color.png)  |  ![image](.wc_alice_color.png) | ![image](.wc_alice_color.png)
