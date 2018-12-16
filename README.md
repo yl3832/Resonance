@@ -13,8 +13,8 @@ ___
 ## Summary:  
   + There are three tables to be labeled including **_Color, Body_** and **_Style_**. 
   + For the images in Color table:
-  + to be labeled: **_Brightness, Contrast, Color, Field, Genre_**
-  	+ Using existing *OpenCV measurement* to label **Brightness and contrast**.
+  + To be labeled: **_Brightness, Contrast, Color, Field, Genre_**
+  	+ Using existing *OpenCV measurement* to label **_Brightness and contrast_**.
   	+ Using *K-Means* to find the dominant colors in images as the labels for **_color_**.
   	+ Using image *segmentation* to find the **_field_**.
   	+ Using *KNN* to find the **_genre_** of the picture. 
