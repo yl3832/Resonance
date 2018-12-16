@@ -26,16 +26,12 @@ ___
     For example: a cloth with Resonance_code: CM-3003 SGT19 WHITUI means:
 		+ ZIP HOODIE (CM-3003) with hite w/Thin Navy Vertical Stripe (WHITUI)
 
-  +
-
-  <p align="center">
-    Numbers of new labels created: 
+  + Numbers of new labels created: 
 
     Color            |  Body        | Style 
     :-------------------------:|:-------------------------:|:-------------------------
       1285  |  512 | 4252
     
-  </p>
 
 
   + Labeled tables are saved [here](./results)
