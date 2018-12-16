@@ -3,14 +3,16 @@
 Resonance Homework 
 
 + **Project Title**: Resonance - Labelling Image Color Body and Style   
-  + Color Image:                                               Predictions: 
+  + Prediction of Color Image: 
 
-  <img src = './figs/test_4.png'  width="300" height="300"> <img src = './figs/predictions_of_test_4.png' width="300" height="300">
+  <img src = './figs/test_4.png'  width="300" height="300">   <img src = './figs/predictions_of_test_4.png' width="300" height="300">
  	 
+  + Prediction of Body Image: 
+
+  <img src = './figs/test4.png'  width="300" height="300">
+  <img src = './figs/predictions_of_test4.png'>
 
 
-  + Body Image: ![image](./figs/test4.png) 
-  	 + Predictions: ![image](./figs/predictions_of_test4.png) 
 + **By**:  
   + Yilin Lyu: Columbia University (yl3832@columbia.edu)
 + **Summary**:  
