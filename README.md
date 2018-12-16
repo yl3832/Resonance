@@ -5,6 +5,7 @@
 <p align="center">
 <img src = './figs/wc_rea_color.png'  width="300" height="300"> 
 </p>
+
 ___
 ## Summary:  
   + There are three tables to be labeled including **_Color, Body_** and **_Style_**. 
