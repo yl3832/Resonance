@@ -3,8 +3,7 @@
 Resonance Homework 
 
 + **Project Title**: Resonance - Labelling Image Color Body and Style  
-+ **By**: 
-  + Yilin Lyu: Columbia University (yl3832@columbia.edu)
++ **By**: Yilin Lyu: Columbia University (yl3832@columbia.edu)
 
 ___
 + **Summary**:  
@@ -20,8 +19,7 @@ ___
   	+ Notice that we could add tags to the **style** dataset according to **Resonance_code**
     A **Resonance_code** includes three parts: *body_tag_code* + *material_tag_code* + *color_tag_code*.
     For example: a cloth with Resonance_code: CM-3003 SGT19 WHITUI means:
-      
-      ZIP HOODIE (CM-3003) with hite w/Thin Navy Vertical Stripe (WHITUI)
+		+ ZIP HOODIE (CM-3003) with hite w/Thin Navy Vertical Stripe (WHITUI)
 
 ___
 
