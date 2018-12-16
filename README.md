@@ -48,6 +48,8 @@ ___
 ___
 
 ## Structure of this repo: 
+
+Please see all the folders for a .README file. 
 ```
 proj/
 ├── notebooks/ 
