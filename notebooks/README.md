@@ -24,6 +24,7 @@ ___
 
 ## Examples of labelling results:  
   + Color Image: 
+  
   Color Image            |  Segmentation Field Prediction  
 :-------------------------:|:-------------------------:
  <img src = './notebook_figs/test_1.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/test_1_seg.png' width="320" height="320" align="center">
