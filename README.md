@@ -23,7 +23,7 @@ ___
   + For the images in Style table:
   	+ Notice that we could add tags to the **style** dataset according to **_Resonance_code_**.
     
-    A **Resonance_code** includes three parts: *body_tag_code* + *material_tag_code* + *color_tag_code*.
+    + A **Resonance_code** includes three parts: *body_tag_code* + *material_tag_code* + *color_tag_code*.
     For example: a cloth with Resonance_code: CM-3003 SGT19 WHITUI means:
 		+ ZIP HOODIE (CM-3003) with hite w/Thin Navy Vertical Stripe (WHITUI)
 
