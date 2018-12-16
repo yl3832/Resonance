@@ -37,10 +37,6 @@ ___
  	 
   
   + Prediction of Body Image:  
-  Color Image            |  Predictions
-:-------------------------:|:-------------------------:
-  <img src = './figs/test4.png'  width="300" height="300">  | <img src = './figs/predictions_of_test4.png'>
-
 
   <img src = './figs/test4.png'  width="300" height="300">
   <img src = './figs/predictions_of_test4.png'>
