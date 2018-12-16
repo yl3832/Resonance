@@ -2,7 +2,7 @@
 
 ## Visualizations: 
 
-Please click on the plots to see a bigger figure.  
+Please click on the plots to see bigger figures.  
 
 ### Word Clouds 
 
