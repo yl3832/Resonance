@@ -7,7 +7,7 @@ Resonance Homework
   <img src = './figs/test_4.png'  width="256" height="256">
  	 
  	 + Predictions: 
- 	 <img src = './figs/predictions_of_test_4.png'  width="256" height="256">
+ 	 <img src = './figs/predictions_of_test_4.png'>
   + Body Image: ![image](./figs/test4.png) 
   	 + Predictions: ![image](./figs/predictions_of_test4.png) 
 + **By**:  
