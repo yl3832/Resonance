@@ -2,6 +2,8 @@
 
 ## Project Title : Resonance - Labelling Image Color, Body and Style  
   + By : Yilin Lyu, Columbia University (yl3832@columbia.edu)
+___
+
 <p align="center">
 <img src = './figs/wc_rea_color.png'  width="300" height="300"> 
 </p>
@@ -11,7 +13,7 @@ ___
 ## Summary:  
   + There are three tables to be labeled including **_Color, Body_** and **_Style_**. 
   + For the images in Color table:
-    + to be labeled: **_Brightness, Contrast, Color, Field, Genre_**
+  + to be labeled: **_Brightness, Contrast, Color, Field, Genre_**
   	+ Using existing *OpenCV measurement* to label **Brightness and contrast**.
   	+ Using *K-Means* to find the dominant colors in images as the labels for **_color_**.
   	+ Using image *segmentation* to find the **_field_**.
