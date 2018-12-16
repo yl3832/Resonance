@@ -27,11 +27,17 @@ ___
 		+ ZIP HOODIE (CM-3003) with hite w/Thin Navy Vertical Stripe (WHITUI)
 
   +
-  Numbers of new labels created: 
+
+  <p align="center">
+    Numbers of new labels created: 
 
 Color            |  Body        | Style 
 :-------------------------:|:-------------------------:|:-------------------------
   1285  |  512 | 4252
+    
+  </p>
+
+
   + Labeled tables are saved [here](./results)
   + Code and detailed explainations are saved [here](./notebooks)
   + Visualizations of the data are saved [here](./visualizations)
