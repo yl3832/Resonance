@@ -25,6 +25,13 @@ ___
     A **Resonance_code** includes three parts: *body_tag_code* + *material_tag_code* + *color_tag_code*.
     For example: a cloth with Resonance_code: CM-3003 SGT19 WHITUI means:
 		+ ZIP HOODIE (CM-3003) with hite w/Thin Navy Vertical Stripe (WHITUI)
+
+  +
+  Numbers of new labels created: 
+
+Color            |  Body        | Style 
+:-------------------------:|:-------------------------:|:-------------------------
+  1285  |  512 | 4252
   + Labeled tables are saved [here](./results)
   + Code and detailed explainations are saved [here](./notebooks)
   + Visualizations of the data are saved [here](./visualizations)
