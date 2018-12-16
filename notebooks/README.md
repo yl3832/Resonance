@@ -28,8 +28,8 @@ ___
 
   Color Image            |  Predictions
 :-------------------------:|:-------------------------:
- <img src = './notebook_figs/test_4.png'  width="300" height="300" align="center">   | <img src = './figs/predictions_of_test_4.png' width="320" height="320" align="center">
- <img src = './notebook_figs/test_4.png'  width="300" height="300" align="center">   | <img src = './figs/predictions_of_test_4.png' width="320" height="320" align="center">
+ <img src = './notebook_figs/test_4.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/predictions_of_test_4.png' width="320" height="320" align="center">
+ <img src = './notebook_figs/test_5.png'  width="300" height="300" align="center">   | <img src = './notebook_figs/predictions_of_test_5.png' width="320" height="320" align="center">
    
   
   + Body Image with predictions:  
