@@ -2,7 +2,7 @@
 
 ## Project Title : Resonance - Labelling Image Color, Body and Style  
   + By : Yilin Lyu, Columbia University (yl3832@columbia.edu)
-
+<img src = './figs/wc_rea_color.png'  width="300" height="300"> 
 ___
 ## Summary:  
   + There are three tables to be labeled including **_Color, Body_** and **_Style_**. 
@@ -38,7 +38,7 @@ ___
 ## Structure of this repo: 
 ```
 proj/
-├── notebook/ 
+├── notebooks/ 
 ├── figs/  
 ├── visualizations/ 
 ├── results/ 
