@@ -3,7 +3,9 @@
 Resonance Homework 
 
 + **Project Title**: Resonance - Labelling Image Color Body and Style  
-+ **By**:  
++ **By**: 
+
+**???** 
   + Yilin Lyu: Columbia University (yl3832@columbia.edu)
 + **Summary**:  
   + There are three tables to be labeled including **Color, Body** and **Style**. 
@@ -21,7 +23,6 @@ Resonance Homework
       
       ZIP HOODIE (CM-3003) with hite w/Thin Navy Vertical Stripe (WHITUI)
 
-    Therefore, we can now label the style using our previous results. 
 
 
 
